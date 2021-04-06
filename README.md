@@ -1,3 +1,5 @@
+# The repo is for this article [How to post and fetch data with react-query](https://zude.hashnode.dev/how-to-post-and-fetch-data-using-react-query-ckm95p3oa09u8khs12e0f2vls)
+
 # Note the sidebar and topbar used in this project is for demonstration purposes only.
 
 # Getting Started with Create React App
